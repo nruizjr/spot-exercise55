@@ -2,7 +2,7 @@
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
-
+//pls add comment
 public class Exercise3_Density {
 
 	static DecimalFormat df = new DecimalFormat("#.##");
